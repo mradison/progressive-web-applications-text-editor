@@ -40,6 +40,8 @@ THEN I should have proper build scripts for a webpack application
 
 Here are some websites I used to help me with my assignment: (I also got help from my instructor, TA and Tutor):
 
+https://www.youtube.com/watch?v=kT3qSf7jG5c
+
 
 
 
