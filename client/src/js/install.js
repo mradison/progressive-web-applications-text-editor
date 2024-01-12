@@ -1,5 +1,5 @@
 const butInstall = document.getElementById('buttonInstall');
-const staticCacheName = 'site-static';
+// const staticCacheName = 'site-static';
 
 // Logic for installing the PWA
 // TODO: Add an event handler to the `beforeinstallprompt` event
